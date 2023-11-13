@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/donfalcone/Downloads/STM_32-main",
+      "program": "/Users/donfalcone/Downloads/STM_32-main/build/Debug/outDebug"
+    }
+  ]
+}
